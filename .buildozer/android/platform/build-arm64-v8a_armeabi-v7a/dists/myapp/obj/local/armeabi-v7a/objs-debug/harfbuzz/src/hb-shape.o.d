@@ -1,0 +1,188 @@
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/obj/local/armeabi-v7a/objs-debug/harfbuzz/src/hb-shape.o: \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shape.cc \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-config.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/config.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/config_sdl_unix.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-blob.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-common.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-buffer.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-unicode.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-font.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-face.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-set.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-draw.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-deprecated.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-map.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shape.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shape-plan.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-style.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-version.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-color.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-name.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-deprecated.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-font.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-layout.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-math.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-meta.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-metrics.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-shape.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-var.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-aat.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-aat-layout.h \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-meta.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-mutex.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-number.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-atomic.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-null.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-algs.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-iter.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-debug.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-array.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-vector.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-object.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shaper.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-machinery.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-blob.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-dispatch.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-sanitize.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-serialize.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-map.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-pool.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shaper-list.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shape-plan.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-shape.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-map.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-buffer.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-unicode.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-aat-map.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-font.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-face.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-face.hh \
+  /home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-face-table-list.hh
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-config.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/config.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/config_sdl_unix.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-blob.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-common.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-buffer.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-unicode.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-font.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-face.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-set.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-draw.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-deprecated.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-map.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shape.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shape-plan.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-style.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-version.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-color.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-name.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-deprecated.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-font.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-layout.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-math.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-meta.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-metrics.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-shape.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-var.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-aat.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-aat-layout.h:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-meta.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-mutex.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-number.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-atomic.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-null.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-algs.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-iter.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-debug.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-array.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-vector.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-object.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shaper.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-machinery.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-blob.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-dispatch.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-sanitize.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-serialize.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-map.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-pool.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shaper-list.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-shape-plan.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-shape.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-map.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-buffer.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-unicode.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-aat-map.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-font.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-face.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-face.hh:
+
+/home/cleo/GeoTrackPro_Linux/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/harfbuzz/src/hb-ot-face-table-list.hh:
