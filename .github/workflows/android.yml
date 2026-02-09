@@ -8,7 +8,8 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -19,14 +20,17 @@ jobs:
         run: |
           sudo apt update
           sudo apt install -y git zip unzip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev
-          pip install --upgrade buildozer Cython==0.29.33 virtualenv
+          # O segredo para evitar o erro de NoneType é usar uma versão do Cython compatível
+          pip install --upgrade buildozer "Cython<3.0" virtualenv
 
       - name: Build with Buildozer
         run: |
+          export PATH=$PATH:$HOME/.local/bin
+          # O comando yes aceita as licenças do Android SDK automaticamente
           yes | buildozer -v android debug
         
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: pacote-geotrack
+          name: pacote-geotrack-final
           path: bin/*.apk
